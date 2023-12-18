@@ -16,7 +16,7 @@
         </div>
     </section>
 
-    <section class="container position-relative z-3" style="margin-top: -135px;">
+    <section class="container position-relative z-3 pb-5 mb-5" style="margin-top: -135px;">
         <div class="rounded-5 overflow-hidden"> 
           <div class="jarallax ratio ratio-16x9" data-jarallax data-speed="0.6">
             <div class="jarallax-img" style="background-image: url(assets/img/about.jpg);"></div>
